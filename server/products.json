@@ -1,47 +1,29 @@
 [
   {
     "id": 2,
-    "name": "Товар 2",
+    "name": "Молоко",
     "price": 200,
-    "description": "Описание товара 2",
+    "description": "скисшее",
     "categories": [
-      "Категория 2"
+      "молочные изделия"
     ]
   },
   {
     "id": 3,
-    "name": "Товар 3",
+    "name": "Колбаса",
     "price": 4,
-    "description": "Описание товара 3",
+    "description": "докторская",
     "categories": [
-      "Категория 1"
+      "еда"
     ]
   },
   {
     "id": 4,
-    "name": "Товар 4",
+    "name": "Сыр",
     "price": 400,
-    "description": "Описание товара 4",
+    "description": "ламбер",
     "categories": [
-      "Категория 1"
+      "молочные изделия"
     ]
-  },
-  {
-    "id": 5,
-    "name": "Товар 5",
-    "price": 500,
-    "description": "Описание товара 5",
-    "categories": [
-      "Категория 2"
-    ]
-  },
-  {
-    "name": "cbvhbjk",
-    "price": 6,
-    "description": "5",
-    "categories": [
-      "5"
-    ],
-    "id": 6
   }
 ]
